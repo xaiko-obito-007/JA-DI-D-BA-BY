@@ -18,14 +18,14 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "ew.r.sizan.798290"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HinataBot V3",
+  "nickNameBot": "Sizan er bby 🌷",
   "prefix": "!",
   "database": {
     "type": "sqlite",
