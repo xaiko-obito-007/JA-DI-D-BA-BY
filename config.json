@@ -18,7 +18,7 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "61589008290637"
   ],
   "whiteListMode": {
     "enable": false,
@@ -26,9 +26,9 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "HinataBot V3",
-  "prefix": "!",
+  "prefix": ".",
   "database": {
-    "type": "sqlite",
+    "type": "mongodb",
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
